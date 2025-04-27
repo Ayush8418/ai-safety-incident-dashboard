@@ -32,7 +32,10 @@ State Management: For managing global state, we decided to use React’s useStat
 UI Components: We made sure to keep the UI minimal and intuitive, ensuring that users can easily track AI safety incidents. The dashboard layout is designed to provide quick insights at a glance.
 
 ## Website Preview
-| dashboard | report page | search page |
-| ------------- | ------------ | ------------ |
-| ![Website Preview](./src/assets/dashboard2.png) | ![Website Preview](./src/assets/report.png) | ![Website Preview](./src/assets/search2.png) | 
+dashboard 
+![Website Preview](./src/assets/dashboard2.png) 
+report page
+![Website Preview](./src/assets/report.png) 
+ search page
+![Website Preview](./src/assets/search2.png) 
 
