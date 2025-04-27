@@ -34,5 +34,5 @@ UI Components: We made sure to keep the UI minimal and intuitive, ensuring that 
 ## Website Preview
 | dashboard | report page | search page |
 | ------------- | ------------ | ------------ |
-| ![Website Preview](./src/assets/preview/dashboard.png) | [Website Preview](./src/assets/preview/report.png) | [Website Preview](./src/assets/preview/search.png) | 
+| ![Website Preview](./src/assets/dashboard.png) | [Website Preview](./src/assets/report.png) | [Website Preview](./src/assets/search.png) | 
 
