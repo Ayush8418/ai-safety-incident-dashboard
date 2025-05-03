@@ -4,7 +4,6 @@ import { createBrowserRouter, Navigate, RouterProvider } from 'react-router-dom'
 import Dashboard from './pages/Dashboard';
 import ReportIncident from './pages/ReportIncident';
 import Search from './pages/Search';
-import Home from './pages/Home';
 import Layout from './components/Layout';
 
 const router = createBrowserRouter([
