@@ -1,5 +1,4 @@
 import React, { useState, useContext } from 'react';
-// import { incidents as mockIncidents } from '../data/mockData';
 import { IncidentContext } from '../context/IncidentContext';
 import IncidentList from '../components/IncidentList';
 import FilterBar from '../components/FilterBar';
@@ -7,7 +6,6 @@ import './Dashboard.css'
 
 const Dashboard = () => {
   const { incidents } = useContext(IncidentContext);
-  // const [incidents, setIncidents] = useState(mockIncidents);
   const [filter, setFilter] = useState('All');
   const [sortOrder, setSortOrder] = useState('newest');
 
