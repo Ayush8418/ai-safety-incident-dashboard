@@ -1,7 +1,7 @@
 import React, { useState, useContext } from 'react';
 import { IncidentContext } from '../context/IncidentContext';
 import IncidentList from '../components/IncidentList';
-import './Search.css';  // We’ll style it separately
+import './Search.css'; 
 
 const Search = () => {
   const { incidents } = useContext(IncidentContext);
